@@ -48,6 +48,7 @@ Material:
     - Color_7ad488c59f0341cc95a1f0ac2f18d67e: {r: 0.6313726, g: 0.7960785, b: 0.5137254,
         a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &5308726410656045105
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -60,4 +61,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 7
+  version: 9
